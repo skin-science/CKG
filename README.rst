@@ -6,7 +6,12 @@
     :alt: banner
     :align: center
 
+**Note**  
 
+   CKG has been integrated into the BioCypher framework.
+   For details, see the publication:
+   *Democratizing knowledge representation with BioCypher*, *Nature Biotechnology*
+   https://doi.org/10.1038/s41587-023-01848-y
 
 **Clinical Knowledge Graph**  
 ============================
